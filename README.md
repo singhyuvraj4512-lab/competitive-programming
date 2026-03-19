@@ -18,6 +18,10 @@ This repository contains selected problems demonstrating core problem-solving te
 
 Solutions are organized by topic to improve readability and allow quick revision of specific concepts.
 
+## Problem Index
+
+See [INDEX.md](./INDEX.md) for a complete list of problems.
+
 ## Approach
 
 Each solution includes:
