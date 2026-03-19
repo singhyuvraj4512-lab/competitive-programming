@@ -1,13 +1,29 @@
-# Codeforces Solutions Archive (C++)
+# Codeforces Solutions (C++)
 
-This repository contains a curated set of Codeforces solutions.
+A curated collection of Codeforces problem solutions implemented in C++.
+
+## Overview
+
+This repository contains selected problems demonstrating core problem-solving techniques and clean implementation practices.
 
 ## Topics Covered
-- Arrays
-- Strings
-- Greedy
-- Math
-- Implementation
 
-## Goal
-- Improve problem-solving
+* Arrays
+* Strings
+* Greedy Algorithms
+* Basic Mathematics
+* Implementation
+
+## Structure
+
+Solutions are organized by topic to improve readability and allow quick revision of specific concepts.
+
+## Approach
+
+Each solution includes:
+
+* Problem reference
+* Topic classification
+* Key idea behind the solution
+
+The focus is on writing clear, structured, and efficient code.
