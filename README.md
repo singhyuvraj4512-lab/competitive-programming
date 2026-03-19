@@ -1,2 +1,13 @@
-# competitive-programming
-My solutions to Codeforces problems, organized by rating. Written in C++ as part of my competitive programming and DSA practice.
+# Codeforces Solutions Archive (C++)
+
+This repository contains a curated set of Codeforces solutions.
+
+## Topics Covered
+- Arrays
+- Strings
+- Greedy
+- Math
+- Implementation
+
+## Goal
+- Improve problem-solving
